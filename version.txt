@@ -1,2 +1,4 @@
-Application Version: 1.0 
-Release Status: Ready
+Student Login Feature 
+Username: SRN 
+Authentication: Fixed 
+Security: Updated
